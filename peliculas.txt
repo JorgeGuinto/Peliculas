@@ -2,4 +2,9 @@ Barbie
 El conjuro
 El diario de una pasión
 TLOR
+<<<<<<< HEAD
 Nemo
+=======
+Harry Potter
+El planeta de los simios
+>>>>>>> jorge
